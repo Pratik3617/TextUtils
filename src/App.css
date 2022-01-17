@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+*{
+  font-family: 'Poppins', sans-serif;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -26,6 +28,10 @@
 
 .App-link {
   color: #61dafb;
+}
+nav{
+  background: #000;
+  color:#fff;
 }
 
 @keyframes App-logo-spin {
